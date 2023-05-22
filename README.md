@@ -11,4 +11,5 @@ https://www.tensorflow.org/tutorials/images/classification
 Another thing to mention that the data I collected was already sperated to :
 
 1.Training set.
+
 2.Testing set. 
